@@ -1,3 +1,3 @@
 # hello-world
 Learning Git
-It'a time to update and create cool stuff!
+It's time to update and create cool stuff!
